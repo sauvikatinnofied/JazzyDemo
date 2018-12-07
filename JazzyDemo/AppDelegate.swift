@@ -16,6 +16,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        Log.d(Bundle.main.appVersion)
+        Log.d("buildVersionNumber" + (Bundle.main.buildVersionNumber ?? ""))
+        Log.d("releaseVersionNumber" + (Bundle.main.releaseVersionNumber ?? ""))
+        
+
         return true
     }
 

@@ -1,0 +1,194 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Debug/Log.swift",
+      "line": 53,
+      "symbol": "Log",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 11,
+      "symbol": "String.length",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 14,
+      "symbol": "String.reversed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 17,
+      "symbol": "String.urlEncoded",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 20,
+      "symbol": "String.isPalindrome",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 23,
+      "symbol": "String.trimmed",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 26,
+      "symbol": "String.firstWord",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 29,
+      "symbol": "String.lastWord",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 32,
+      "symbol": "String.localized",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 36,
+      "symbol": "String.fileExtension",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 39,
+      "symbol": "String.fileName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 42,
+      "symbol": "String.fileLocation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 47,
+      "symbol": "String.charAt(index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 52,
+      "symbol": "String.wordAt(index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 58,
+      "symbol": "String.equalTo(string:compareOption:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 62,
+      "symbol": "String.equalsToIgnoringCase(string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 65,
+      "symbol": "String.equalToWithCase(string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 70,
+      "symbol": "String.replace(string:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 74,
+      "symbol": "String.subString(start:length:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 82,
+      "symbol": "String.prefixWithLength(length:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 87,
+      "symbol": "String.sufixWithLength(length:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 95,
+      "symbol": "String.subStringUptoString(string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 103,
+      "symbol": "String.*(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 108,
+      "symbol": "String.localizedWithComment(comment:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 111,
+      "symbol": "String.hasSubString(string:compareOption:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 114,
+      "symbol": "String.attribute(with:and:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift",
+      "line": 120,
+      "symbol": "String.attribute(with:and:scriptFont:and:scriptBaseLineOffset:range:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo"
+}

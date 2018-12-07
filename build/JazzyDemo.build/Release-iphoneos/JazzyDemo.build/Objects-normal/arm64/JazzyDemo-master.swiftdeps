@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "affb501a62c9fa39548c2a2ee32b37e7"
+build_time: [1544196691, 232629000]
+inputs:
+  "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Debug/Log.swift": [9223372036, 854775807]
+  "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/Sequence.swift": [9223372036, 854775807]
+  "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/ViewController.swift": [9223372036, 854775807]
+  "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/Double.swift": [9223372036, 854775807]
+  "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/Bundle+Verison.swift": [9223372036, 854775807]
+  "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/Array.swift": [9223372036, 854775807]
+  "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Extensions/Foundation/String.swift": [9223372036, 854775807]
+  "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/sauvikdolui/Documents/TestProjects/JazzyDemo/JazzyDemo/Util/Utility.swift": [9223372036, 854775807]

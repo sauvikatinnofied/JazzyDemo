@@ -1,0 +1,15 @@
+output: docs/docs
+module: JazzyDemo
+authors: Innofied Solution Pvt. Ltd.
+author_url: https://github.com/sauvikatinnofied
+github_url: https://github.com/sauvikatinnofied
+min_acl: private
+exclude:
+  - "**/*-ObjC.swift"
+  - "Pods/*.swift"
+readme: README.md
+
+copyright: ©2018Innofied Solutions Pvt. Ltd.
+
+swift_version: 4.1.2
+theme: fullwidth
